@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Host & Sitemap
+Host: https://submerge-ocean.intel
+Sitemap: https://submerge-ocean.intel/sitemap.xml
